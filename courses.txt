@@ -4,3 +4,5 @@ Liste de courses
 - gâteau au chocolat
 - glaçons
 - serviettes
+- bonbons
+-bonbons
